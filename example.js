@@ -38,4 +38,4 @@ const autoScroll = async (page) => {
             }
         });
     })
-  }
+}
