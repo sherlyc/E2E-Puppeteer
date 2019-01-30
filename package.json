@@ -4,6 +4,7 @@
   "description": "E2E Testing with PUppeteer",
   "main": "index.js",
   "dependencies": {
+    "faker": "^4.1.0",
     "puppeteer": "^1.4.0"
   },
   "devDependencies": {},
